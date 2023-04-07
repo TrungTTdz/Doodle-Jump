@@ -11,7 +11,7 @@ This is a simple game powered by SDL2 library. The game is written in C++ and ca
 
 **University:** University of Engineering and Technology 
 
-**Major** Computer Science
+**Major:** Computer Science
 
 **Class:** K67-CA-CLC2
 
