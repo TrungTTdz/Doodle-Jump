@@ -1,7 +1,7 @@
 
 # Doodle Jump
 
-This is a simple game powered by SDL2 library. The game is written in C++ and can be compiled in Windows and Ubuntu platform.
+This is a simple game powered by SDL2 library. The game is written in C++ and can be compiled and run on Windows and Ubuntu platform.
 
 
 ## Author
