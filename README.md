@@ -29,7 +29,7 @@ Use ← and → to move
 
 **GNU:** x86_64-w64-mingw32
 
-**Libdrm:** amd64-2.4.107-8ubuntu1~20.04.2 (*if you make file with Gnome*)
+**Libdrm:** amd64-2.4.107-8ubuntu1~20.04.2 Gnome
 
 
 
