@@ -20,6 +20,7 @@ This is a simple game powered by SDL2 library. The game is written in C++ and ca
 
 Use ← and → to move
 
+The project is currently being completed
 
 
 
