@@ -23,7 +23,7 @@ Use ← and → to move
 
 
 
-## Version
+## Version Beta 1.0
 
 **Simple DirectMedia Layer (SDL)** : 2.26.1
 
