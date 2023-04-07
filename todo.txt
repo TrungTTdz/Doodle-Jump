@@ -1,0 +1,2 @@
+-xử lý readme done
+-xử lý hàm
