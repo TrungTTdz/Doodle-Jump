@@ -4,7 +4,7 @@
 #include"player.hpp"
 #include<vector>
 #include<fstream>
-
+// using namespace std 
 #define BACKGROUND "background.png"
 #define GHOST_LAND "ghost_land.png"
 #define GHOST_BCKGROUND "ghost_bck.png"
@@ -30,9 +30,10 @@ class Game
   private:
     Window* win;
 	Player* player;
-	std::vector<Jumpable*> jumpables;
+\*	std::vector<Jumpable*> jumpables;
 	std::vector<Enemy*> enemies;
 	int distance;
-	int max_score;
+	int max_score; */
+		
 };
 #endif
