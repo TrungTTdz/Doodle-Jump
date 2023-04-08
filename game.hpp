@@ -30,7 +30,7 @@ class Game
   private:
     Window* win;
 	Player* player;
-\*	std::vector<Jumpable*> jumpables;
+/*	std::vector<Jumpable*> jumpables;
 	std::vector<Enemy*> enemies;
 	int distance;
 	int max_score; */
