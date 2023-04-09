@@ -1,2 +1,5 @@
--xử lý readme done
+-xử lý readme.         done
 -xử lý hàm
+- fix lỗi undefined 
+- viết hàm enemy.hpp
+-viết hàm enemy.cpp
